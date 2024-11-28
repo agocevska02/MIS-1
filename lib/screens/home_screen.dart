@@ -34,6 +34,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('213005'),
+        centerTitle: true,
       ),
       body: ListView.builder(
         itemCount: products.length,
