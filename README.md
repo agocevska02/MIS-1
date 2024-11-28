@@ -1,4 +1,4 @@
-# lab1
+# First laboratory exercise 
 
 A new Flutter project.
 
